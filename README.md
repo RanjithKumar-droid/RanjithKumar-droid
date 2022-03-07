@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RanjithKumar-droid.
 - 👀 I’m interested in Java programming and as well as web developing.
-- 🌱 I’m currently learning database.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning ETL.
+- 💞️ I’m a Project Engineer  
 - 📫 Reach me on sriniranjith27@gmail.com.
 
 <!---
